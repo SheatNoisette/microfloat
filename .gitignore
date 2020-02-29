@@ -1,3 +1,12 @@
+# Project
+microfloat
+
+# VSCode
+.vscode/
+
+# Vim
+*.swp
+
 # Prerequisites
 *.d
 
