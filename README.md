@@ -14,5 +14,5 @@ computers or microcontrollers but I couldn't find any that fulfill my needs:
 This is a work in progress. It may reach a usable state, probably.
 For more details, see FAQ.md.
 
-# Licence
+# License
 This work is released as GNU GPL 3.0 licence. See LICENSE for details.
